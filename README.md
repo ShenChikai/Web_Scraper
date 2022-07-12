@@ -7,15 +7,14 @@
 ### Fore more: https://cheerio.js.org/
 
 ## Instruction:
-Please run the code under ./Scrapers/  (make ./Scrapers/ your working dir)
-First, save the HTML file using save_html.js locally so we don't spam get request that get labeled as a bot by the server.
-Then, use cheerio to parse the HTML file saved locally to get the data we want.
-In this example, I collected data from https://cryptoslam.io/
+> Please run the code under ./Scrapers/  (make ./Scrapers/ your working dir)
+> First, save the HTML file using save_html.js locally so we don't spam get request that get labeled as a bot by the server.
+> Then, use cheerio to parse the HTML file saved locally to get the data we want.
+> In this example, I collected data from https://cryptoslam.io/
 
-> ## Learning Notes
->
-> In selecting by class using Cheerio/JQuery, every class should have a dot in front of it. 
-> For example: ```$(.table.table-hover.js-top-by-sales-table-24h.summary-sales-table)```
->
-> Iterating with index.
-> ```$(this).find('td').each(function(i) {...})```
+## Learning Notes
+* In selecting by class using Cheerio/JQuery, every class should have a dot in front of it. 
+* For example: ```$(.table.table-hover.js-top-by-sales-table-24h.summary-sales-table)```
+
+* Iterating with index. 
+* ```$(this).find('td').each(function(i) {...})```
