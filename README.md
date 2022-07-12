@@ -3,7 +3,7 @@
 ## This is one of my  project in learning web scraping, and this one uses Cheerio to parse the HTML
 ## PS: None of these are being used for commercial purposes. Learning and research only.
 
-<p align="center"><img src="./preview.jng" width="50%" height="50%"><p>
+<p align="center"><img src="./preview.png" width="50%" height="50%"><p>
 
 ### Cheerio is a fast, flexible and lean implementation of core jQuery designed specifically for the server, and so many of this selecting methods is familiar to or sometimes the same as JQuery
 ### Fore more: https://cheerio.js.org/
