@@ -1,0 +1,452 @@
+[
+    {
+        "ranking": "1",
+        "collection": "CryptoPunks",
+        "chain": "Ethereum",
+        "sale": "1827517",
+        "change24h": "-42.28%",
+        "buyer": "13",
+        "txn": "17"
+    },
+    {
+        "ranking": "2",
+        "collection": "Mutant Ape Yacht Club",
+        "chain": "Ethereum",
+        "sale": "1308400",
+        "change24h": "-3.43%",
+        "buyer": "57",
+        "txn": "65"
+    },
+    {
+        "ranking": "3",
+        "collection": "Meebits",
+        "chain": "Ethereum",
+        "sale": "1141230",
+        "change24h": "152.14%",
+        "buyer": "77",
+        "txn": "122"
+    },
+    {
+        "ranking": "4",
+        "collection": "Art Blocks",
+        "chain": "Ethereum",
+        "sale": "1078686",
+        "change24h": "11.32%",
+        "buyer": "364",
+        "txn": "692"
+    },
+    {
+        "ranking": "5",
+        "collection": "Sorare",
+        "chain": "Ethereum",
+        "sale": "983642",
+        "change24h": "12.18%",
+        "buyer": "5,606",
+        "txn": "14,823"
+    },
+    {
+        "ranking": "6",
+        "collection": "Bored Ape Yacht Club",
+        "chain": "Ethereum",
+        "sale": "750093",
+        "change24h": "-76.80%",
+        "buyer": "9",
+        "txn": "12"
+    },
+    {
+        "ranking": "7",
+        "collection": "Otherdeed",
+        "chain": "Ethereum",
+        "sale": "734986",
+        "change24h": "7.09%",
+        "buyer": "99",
+        "txn": "118"
+    },
+    {
+        "ranking": "8",
+        "collection": "goblintown",
+        "chain": "Ethereum",
+        "sale": "480349",
+        "change24h": "40.21%",
+        "buyer": "80",
+        "txn": "104"
+    },
+    {
+        "ranking": "9",
+        "collection": "Doodles",
+        "chain": "Ethereum",
+        "sale": "464067",
+        "change24h": "25.57%",
+        "buyer": "27",
+        "txn": "29"
+    },
+    {
+        "ranking": "10",
+        "collection": "Project 0xD38",
+        "chain": "Ethereum",
+        "sale": "330508",
+        "change24h": "-58.10%",
+        "buyer": "1,017",
+        "txn": "1,686"
+    },
+    {
+        "ranking": "11",
+        "collection": "CloneX",
+        "chain": "Ethereum",
+        "sale": "306964",
+        "change24h": "13.04%",
+        "buyer": "22",
+        "txn": "23"
+    },
+    {
+        "ranking": "12",
+        "collection": "Ethereum Name Service",
+        "chain": "Ethereum",
+        "sale": "264384",
+        "change24h": "32.83%",
+        "buyer": "446",
+        "txn": "990"
+    },
+    {
+        "ranking": "13",
+        "collection": "Azuki",
+        "chain": "Ethereum",
+        "sale": "250415",
+        "change24h": "-47.15%",
+        "buyer": "19",
+        "txn": "22"
+    },
+    {
+        "ranking": "14",
+        "collection": "NBA Top Shot",
+        "chain": "Flow",
+        "sale": "201744",
+        "change24h": "39.53%",
+        "buyer": "2,469",
+        "txn": "20,108"
+    },
+    {
+        "ranking": "15",
+        "collection": "Town Star",
+        "chain": "Ethereum",
+        "sale": "201571",
+        "change24h": "676.92%",
+        "buyer": "93",
+        "txn": "156"
+    },
+    {
+        "ranking": "16",
+        "collection": "YOLO",
+        "chain": "Ethereum",
+        "sale": "196485",
+        "change24h": "-39.77%",
+        "buyer": "251",
+        "txn": "478"
+    },
+    {
+        "ranking": "17",
+        "collection": "Axie Infinity",
+        "chain": "Ronin",
+        "sale": "190705",
+        "change24h": "33.16%",
+        "buyer": "5,341",
+        "txn": "16,209"
+    },
+    {
+        "ranking": "18",
+        "collection": "God Hates NFTees",
+        "chain": "Ethereum",
+        "sale": "182651",
+        "change24h": "113.99%",
+        "buyer": "190",
+        "txn": "290"
+    },
+    {
+        "ranking": "19",
+        "collection": "Gossamer Seed",
+        "chain": "Ethereum",
+        "sale": "179709",
+        "change24h": "-1.40%",
+        "buyer": "512",
+        "txn": "849"
+    },
+    {
+        "ranking": "20",
+        "collection": "Moonbirds",
+        "chain": "Ethereum",
+        "sale": "178218",
+        "change24h": "-69.31%",
+        "buyer": "7",
+        "txn": "7"
+    },
+    {
+        "ranking": "21",
+        "collection": "BBRC OFFICIAL IVY BOYS",
+        "chain": "Ethereum",
+        "sale": "150965",
+        "change24h": "2,731.35%",
+        "buyer": "46",
+        "txn": "90"
+    },
+    {
+        "ranking": "22",
+        "collection": "Bored Ape Kennel Club",
+        "chain": "Ethereum",
+        "sale": "144034",
+        "change24h": "-47.87%",
+        "buyer": "14",
+        "txn": "18"
+    },
+    {
+        "ranking": "23",
+        "collection": "Dreamland Monkeys",
+        "chain": "Solana",
+        "sale": "125115",
+        "change24h": "0.00%",
+        "buyer": "1,992",
+        "txn": "4,544"
+    },
+    {
+        "ranking": "24",
+        "collection": "V1 Cryptopunks Wrapped",
+        "chain": "Ethereum",
+        "sale": "119576",
+        "change24h": "254.45%",
+        "buyer": "10",
+        "txn": "11"
+    },
+    {
+        "ranking": "25",
+        "collection": "Degen Degen",
+        "chain": "Solana",
+        "sale": "115871",
+        "change24h": "129.47%",
+        "buyer": "137",
+        "txn": "563"
+    },
+    {
+        "ranking": "26",
+        "collection": "PEACE DOVE",
+        "chain": "BSC",
+        "sale": "106761",
+        "change24h": "-11.76%",
+        "buyer": "60",
+        "txn": "273"
+    },
+    {
+        "ranking": "27",
+        "collection": "ImmortalPlayerCharacter",
+        "chain": "Ethereum",
+        "sale": "99912",
+        "change24h": "15.07%",
+        "buyer": "391",
+        "txn": "628"
+    },
+    {
+        "ranking": "28",
+        "collection": "Okay Bears",
+        "chain": "Solana",
+        "sale": "99614",
+        "change24h": "67.02%",
+        "buyer": "16",
+        "txn": "23"
+    },
+    {
+        "ranking": "29",
+        "collection": "Moonbirds Oddities",
+        "chain": "Ethereum",
+        "sale": "99444",
+        "change24h": "-23.04%",
+        "buyer": "22",
+        "txn": "27"
+    },
+    {
+        "ranking": "30",
+        "collection": "Grumpy Dragon",
+        "chain": "Solana",
+        "sale": "98690",
+        "change24h": "-13.39%",
+        "buyer": "106",
+        "txn": "193"
+    },
+    {
+        "ranking": "31",
+        "collection": "WizNFT",
+        "chain": "Ethereum",
+        "sale": "90455",
+        "change24h": "322.17%",
+        "buyer": "231",
+        "txn": "347"
+    },
+    {
+        "ranking": "32",
+        "collection": "PROOF Collective",
+        "chain": "Ethereum",
+        "sale": "87456",
+        "change24h": "63.44%",
+        "buyer": "2",
+        "txn": "2"
+    },
+    {
+        "ranking": "33",
+        "collection": "The Currency Eth",
+        "chain": "Ethereum",
+        "sale": "85224",
+        "change24h": "0.00%",
+        "buyer": "7",
+        "txn": "10"
+    },
+    {
+        "ranking": "34",
+        "collection": "FXHASH",
+        "chain": "Tezos",
+        "sale": "83109",
+        "change24h": "414.05%",
+        "buyer": "229",
+        "txn": "401"
+    },
+    {
+        "ranking": "35",
+        "collection": "Admit One",
+        "chain": "Ethereum",
+        "sale": "82418",
+        "change24h": "96.44%",
+        "buyer": "4",
+        "txn": "4"
+    },
+    {
+        "ranking": "36",
+        "collection": "PolkamonOfficialCollection",
+        "chain": "BSC",
+        "sale": "81813",
+        "change24h": "-6.00%",
+        "buyer": "488",
+        "txn": "549"
+    },
+    {
+        "ranking": "37",
+        "collection": "Raccoon Network NFT Token",
+        "chain": "BSC",
+        "sale": "80234",
+        "change24h": "127.98%",
+        "buyer": "93",
+        "txn": "291"
+    },
+    {
+        "ranking": "38",
+        "collection": "MurakamiFlowers",
+        "chain": "Ethereum",
+        "sale": "75286",
+        "change24h": "-60.30%",
+        "buyer": "13",
+        "txn": "18"
+    },
+    {
+        "ranking": "39",
+        "collection": "Parallel Alpha",
+        "chain": "Ethereum",
+        "sale": "74620",
+        "change24h": "-3.17%",
+        "buyer": "104",
+        "txn": "422"
+    },
+    {
+        "ranking": "40",
+        "collection": "The Possessed",
+        "chain": "Ethereum",
+        "sale": "71719",
+        "change24h": "-28.15%",
+        "buyer": "163",
+        "txn": "208"
+    },
+    {
+        "ranking": "41",
+        "collection": "Moonrunners",
+        "chain": "Ethereum",
+        "sale": "71590",
+        "change24h": "-3.57%",
+        "buyer": "167",
+        "txn": "271"
+    },
+    {
+        "ranking": "42",
+        "collection": "Panini America",
+        "chain": "Panini",
+        "sale": "65088",
+        "change24h": "37.29%",
+        "buyer": "216",
+        "txn": "2,333"
+    },
+    {
+        "ranking": "43",
+        "collection": "Jenkins the Valet The Writers Room",
+        "chain": "Ethereum",
+        "sale": "62016",
+        "change24h": "87.26%",
+        "buyer": "24",
+        "txn": "35"
+    },
+    {
+        "ranking": "44",
+        "collection": "Shadowy Super Coder",
+        "chain": "Solana",
+        "sale": "61224",
+        "change24h": "178.14%",
+        "buyer": "9",
+        "txn": "14"
+    },
+    {
+        "ranking": "45",
+        "collection": "FGDNFT",
+        "chain": "BSC",
+        "sale": "61027",
+        "change24h": "53.96%",
+        "buyer": "13",
+        "txn": "14"
+    },
+    {
+        "ranking": "46",
+        "collection": "Primate Academy",
+        "chain": "Solana",
+        "sale": "60839",
+        "change24h": "-6.70%",
+        "buyer": "82",
+        "txn": "114"
+    },
+    {
+        "ranking": "47",
+        "collection": "mcgoblinwtf",
+        "chain": "Ethereum",
+        "sale": "60788",
+        "change24h": "40.23%",
+        "buyer": "46",
+        "txn": "54"
+    },
+    {
+        "ranking": "48",
+        "collection": "mfer",
+        "chain": "Ethereum",
+        "sale": "59263",
+        "change24h": "11.91%",
+        "buyer": "16",
+        "txn": "20"
+    },
+    {
+        "ranking": "49",
+        "collection": "Squirrels Nation Reloaded",
+        "chain": "Solana",
+        "sale": "58687",
+        "change24h": "-34.82%",
+        "buyer": "186",
+        "txn": "380"
+    },
+    {
+        "ranking": "50",
+        "collection": "Cool Cats",
+        "chain": "Ethereum",
+        "sale": "58310",
+        "change24h": "220.47%",
+        "buyer": "12",
+        "txn": "13"
+    }
+]
