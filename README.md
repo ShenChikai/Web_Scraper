@@ -13,7 +13,7 @@
 > In this example, I collected data from https://cryptoslam.io/
 
 ## Learning Notes
-* In selecting by class using Cheerio/JQuery, every class should have a dot in front of it. 
+* In selecting by class using Cheerio/JQuery, every class should have a dot in front of it. \br
 For example: ```$(.table.table-hover.js-top-by-sales-table-24h.summary-sales-table)```
 
 * Iterating with index: ```$(this).find('td').each(function(i) {...})```
