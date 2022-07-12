@@ -14,7 +14,6 @@
 
 ## Learning Notes
 * In selecting by class using Cheerio/JQuery, every class should have a dot in front of it. 
-* For example: ```$(.table.table-hover.js-top-by-sales-table-24h.summary-sales-table)```
+For example: ```$(.table.table-hover.js-top-by-sales-table-24h.summary-sales-table)```
 
-* Iterating with index. 
-* ```$(this).find('td').each(function(i) {...})```
+* Iterating with index: ```$(this).find('td').each(function(i) {...})```
